@@ -6,7 +6,7 @@ session_start();
 //echo "<br><a href=".$_SERVER['PHP_SELF'].">обновить";
 //echo $_SESSION['have_mail'];
 ?>
-	
+// testing
 
 
 <?php
@@ -18,7 +18,7 @@ require_once 'ok.php';
 //require_once 'gauth.php';
 ?>
 
-
+//oklklk
 <!DOCTYPE html>
 <html lang="ru">
 <head>
