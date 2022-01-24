@@ -7,6 +7,7 @@ session_start();
 //echo $_SESSION['have_mail'];
 ?>
 // testing
+//fix_link
 
 
 <?php
